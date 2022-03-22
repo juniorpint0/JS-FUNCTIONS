@@ -1,6 +1,6 @@
 /*
 * A programming language is said to have
-* Frist-class functions when functions in
+* First-class functions when functions in
 * that language are treated like any other
 * variable.
 */
